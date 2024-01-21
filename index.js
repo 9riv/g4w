@@ -5,7 +5,7 @@ const { Client } = require('discord.js-selfbot-v11')
 const client = new Client();
 
 client.on('ready', () => { 
-  client.user.setActivity("", {type: "STREAMING", url: "https://twitch.tv/$"})
+  client.user.setActivity(" ", {type: "STREAMING", url: "https://twitch.tv/$"})
    console.log(`Successfully enabled Streaming twitch Mode.`)
 })
 
