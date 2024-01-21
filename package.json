@@ -1,0 +1,26 @@
+{
+  "name": "Streaming-Status",
+  "version": "1.0.0",
+  "description": "![Made with JavaScript](https://user-images.githubusercontent.com/89626058/139572479-11e0fca1-7549-4798-89cb-731b8d414662.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItzSidhan/Streaming-Status.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ItzSidhan/Streaming-Status/issues"
+  },
+  "homepage": "https://github.com/ItzSidhan/Streaming-Status#readme",
+  "dependencies": {
+    "discord.js-selfbot-v11": "^11.5.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  }
+}
